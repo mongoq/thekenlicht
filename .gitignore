@@ -1,0 +1,28 @@
+# Directory for Arduino libraries if copied locally into the project
+/libraries/
+
+# Build directories
+/build/
+
+# Temporary files
+*.tmp
+
+# Sketch binaries
+*.hex
+*.elf
+
+# Project logs and output files
+*.log
+*.out
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# IDE specific files
+*.swp            # Vim swap files
+*.swo            # Additional Vim swap files
+.idea/           # JetBrains IDEs directory
+.vscode/         # VS Code settings
